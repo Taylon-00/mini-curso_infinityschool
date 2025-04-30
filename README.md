@@ -1,5 +1,4 @@
 # mini-curso_infinityschool
-**Mini-Curso:** Primeiros Passos na Programação
 
 <!DOCTYPE html>
 <html lang="pt-BR">
